@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-22 at 13 36 28_927e8e46](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/783c9803-0a1d-4f0f-9fc4-ac8cf72f1d85)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
@@ -99,6 +99,13 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+#### Program
+![WhatsApp Image 2024-04-22 at 13 36 32_ebcdd1d6](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/eb6b277f-1db6-41d3-babb-1ff0c81b7d61)
+![WhatsApp Image 2024-04-22 at 13 36 33_b1c8e4ad](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/15a84c71-6a28-410b-a63e-6fa035502ac8)
+![WhatsApp Image 2024-04-22 at 13 36 33_237210da](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/35def62f-8996-49d8-9deb-c506d906c693)
+![WhatsApp Image 2024-04-22 at 13 36 34_d07d6589](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/b6d6df07-986c-47bf-86ee-965692fde443)
+
+#### Robot Action
 ![WhatsApp Image 2024-04-22 at 13 36 28_47b653f2](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/45f35e03-7e01-4aba-9825-7cb8b5210089)
 ![WhatsApp Image 2024-04-22 at 13 36 29_ab10191c](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/19828a3c-4fa5-4abe-a0f8-d307037d22e4)
 ![WhatsApp Image 2024-04-22 at 13 36 29_5a3b4a9a](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/fc4c8815-5f4f-4bbf-8ec4-7b54714743ed)
@@ -119,7 +126,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
