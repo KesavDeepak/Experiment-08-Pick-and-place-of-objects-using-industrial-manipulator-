@@ -120,6 +120,10 @@ and click on the connect icon
 
 
 
+https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/5b777fa7-473a-4d48-a3b9-292a13076081
+
+
+
 
 
 
