@@ -106,6 +106,7 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 13 36 34_d07d6589](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/b6d6df07-986c-47bf-86ee-965692fde443)
 
 #### Robot Action
+
 ![WhatsApp Image 2024-04-22 at 13 36 28_47b653f2](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/45f35e03-7e01-4aba-9825-7cb8b5210089)
 ![WhatsApp Image 2024-04-22 at 13 36 29_ab10191c](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/19828a3c-4fa5-4abe-a0f8-d307037d22e4)
 ![WhatsApp Image 2024-04-22 at 13 36 29_5a3b4a9a](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/fc4c8815-5f4f-4bbf-8ec4-7b54714743ed)
@@ -118,8 +119,7 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 13 36 31_bb2eb55b](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/60583fe2-949a-4192-ba44-5d7d369447fd)
 
 
-
-
+ 
 
 
 
