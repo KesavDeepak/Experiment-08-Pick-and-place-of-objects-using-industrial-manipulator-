@@ -119,7 +119,6 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 13 36 31_bb2eb55b](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/60583fe2-949a-4192-ba44-5d7d369447fd)
 
 
- 
 
 
 
